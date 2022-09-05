@@ -22,3 +22,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@@fawaaaz111](https://www.frontendmentor.io/profile/fawaaaz111)
