@@ -13,7 +13,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: https://fawaaaz111.github.io/product-preview-card/
 
 ### Built with
@@ -26,5 +25,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@@fawaaaz111](https://www.frontendmentor.io/profile/fawaaaz111)
+- Frontend Mentor - [@fawaaaz111](https://www.frontendmentor.io/profile/fawaaaz111)
